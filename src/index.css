@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Tambahkan sedikit styling dasar agar latar belakang full screen */
+body {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+}
